@@ -1,0 +1,50 @@
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe.config
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.pdb
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csprojResolveAssemblyReference.cache
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Form1.resources
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Properties.Resources.resources
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csproj.GenerateResource.Cache
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.exe
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.pdb
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapSoHoKhau.resources
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapNhanKhau.resources
+D:\110117051\PTTKHTTT\buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapPhuongXa.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe.config
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csprojResolveAssemblyReference.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapNhanKhau.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapPhuongXa.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapSoHoKhau.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKV\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csproj.GenerateResource.Cache
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe.config
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.exe
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.pdb
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.pdb
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csprojResolveAssemblyReference.cache
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Form1.resources
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapNhanKhau.resources
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapPhuongXa.resources
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapSoHoKhau.resources
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Properties.Resources.resources
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csproj.GenerateResource.Cache
+D:\110117051\PTTKHTTT\4. buoi 1_11_19\QuanLyNK_HK\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapQuanHuyen.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe.config
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.exe
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.pdb
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.exe
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\bin\Debug\QuanLyNK_HK.pdb
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csprojResolveAssemblyReference.cache
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Form1.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapNhanKhau.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapPhuongXa.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapQuanHuyen.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.FormNhapSoHoKhau.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.Properties.Resources.resources
+C:\Users\Hoc vien\Downloads\QuanLyNK_HK\obj\Debug\QuanLyNK_HK.csproj.GenerateResource.Cache
