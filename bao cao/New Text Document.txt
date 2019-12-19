@@ -1,0 +1,18 @@
+1.2.  Mô tả hệ thống:
+Hệ thống các chức năng: 
+-	Người chịu trách nhiệm hướng dẫn sinh viên nơi thực tập.
+•	Thêm, sửa, xóa  báo cáo thực tập, nhận xét đánh giá và kết quả thực tập của sinh viên được phân công.
+•	Xem danh sách thực tập của trường và báo cáo của sinh viên tại nơi thực tập này.
+-	Sinh viên
+•	 Xem danh sách thực tập của trường, kinh phí hỗ trợ và báo cáo của chính sinh viên đó.
+-	Giảng viên 
+•	 Xem danh sách thực tập của trường và báo cáo của từng sinh viên.
+•	Thêm, sửa, xóa  báo cáo thực tập, nhận xét đánh giá và kết quả thực tập của sinh viên được phân công.
+-	Lãnh đạo khoa
+•	Xem danh sách thực tập của trường và báo cáo của từng sinh viên.
+•	Thêm, sửa, xóa danh sách sinh viên thực tập và nơi thực tập của sinh viên thuộc khoa đó.
+•	Thêm, sửa, xóa kinh phí hỗ trợ sinh viên thực tập.
+-	Lãnh đạo bộ môn
+•	Xem danh sách thực tập của trường và báo cáo của từng sinh viên.
+-	Khách (người không có tài khoản truy cập)
+•	Xem danh sách thực tập của trường  
